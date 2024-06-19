@@ -1,0 +1,2 @@
+go mod init github.com/amantya/goLang
+go get -u github.com/google/gopacket
